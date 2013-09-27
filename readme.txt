@@ -1,3 +1,5 @@
+This is copied from JEval project
+
 JEval, release 0.9.4 beta (December 2008)
 http://jeval.sourceforge.net
 ----------------------------------------------
