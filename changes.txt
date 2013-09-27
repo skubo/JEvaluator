@@ -1,0 +1,6 @@
+V0.9.5
+------
+
+- added flag in Evaluator.java to circumvent this bug: http://sourceforge.net/p/jeval/bugs/8/ 
+  as expressions like this were failing: (cos(1)) + 1 ; but these weren't: cos(1) + 1
+
